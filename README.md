@@ -4,8 +4,8 @@
 <ul>
   <li>🌱 I’m currently completing my degree in Computer Engineering.</li>
   <li>💻 I have a strong passion for technology and software development.</li>
-  <li>👨‍💼 I'm eager to apply my skills in professional projects</li>
-  <li>📚 Here, you'll find some of my projects what I've been collaborating on</li>
+  <li>👨‍💼 I'm eager to apply my skills in professional projects.</li>
+  <li>📚 Here, you'll find some of my projects what I've been collaborating on.</li>
 </ul>
 
 <h2>💻 Languages</h2>
